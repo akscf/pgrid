@@ -3,7 +3,7 @@
 </p>
 
 ### SpawnLocal example
-[More examples](https://github.com/akscf/pgrid/)
+[More examples](https://github.com/akscf/pgrid/tree/main/SpawnLocal)
 ```
 use XSpawn;
 $|=1;
