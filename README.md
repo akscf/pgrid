@@ -1,7 +1,3 @@
-<p>
-  Lightweight Perl modules which provide an easy way to make parallel/distributed calculation programs.
-</p>
-
 ### SpawnLocal example
 [More example, primes check](SpawnLocal/example2.pl)
 ```
