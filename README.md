@@ -3,7 +3,7 @@
 </p>
 
 ### SpawnLocal example
-[More examples](https://github.com/akscf/pgrid/tree/main/SpawnLocal)
+[More example, primes check](SpawnLocal/example2.pl)
 ```
 use XSpawn;
 $|=1;
