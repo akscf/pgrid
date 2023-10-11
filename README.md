@@ -1,6 +1,6 @@
 ### SpawnLocal example
 [More example, primes check](SpawnLocal/example2.pl)
-```
+```pl
 use XSpawn;
 $|=1;
 
